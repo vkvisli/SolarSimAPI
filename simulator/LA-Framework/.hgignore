@@ -1,0 +1,17 @@
+syntax: glob
+*~
+*.o
+Test/LATest
+Test/AllocationTest
+Framework/.directory
+*.kate-swp
+*.d
+.sync.ffs_db
+*.kdev4
+.codelite/LA_Framework.session
+.codelite/LA_Framework.tags
+.codelite/refactoring.db
+.codelite/valgrind.memcheck.supp
+.directory
+LA_Framework.project
+LA_Framework.workspace

@@ -1,0 +1,24 @@
+{
+  "economic": [
+    "DW cluster 7 (47-80 min, 0.24-0.48 kWh).json"
+  ],
+
+  "fast": [
+    "DW cluster 8 (28-48 min, 0.35-0.82 kWh).json"
+  ],
+
+  "delicate": [
+    "DW cluster 6 (55-68 min, 0.53-0.98 kWh).json"
+  ],
+
+  "normal": [
+    "DW cluster 1 (92-115 min, 0.67-1.17 kWh).json",
+    "DW cluster 4 (51-66 min, 0.99-1.32 kWh).json",
+    "DW cluster 5 (66-90 min, 0.62-1.02 kWh).json"
+  ],
+
+  "intensive": [
+    "DW cluster 2 (117-135 min, 0.8-1.2 kWh).json",
+    "DW cluster 3 (73-103 min, 1.1-1.65 kWh).json"
+  ]
+}

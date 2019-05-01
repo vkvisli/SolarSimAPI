@@ -1,0 +1,42 @@
+{
+  "30": [
+    "WM cluster 11 (71-95 min, 0.1-0.4 kWh).json",
+    "WM cluster 15 (95-130 min, 0.12-0.4 kWh).json"
+  ],
+
+  "30short": [
+    "WM cluster 4 (10-40 min, 0.0-0.12 kWh).json",
+    "WM cluster 9 (40-70 min, 0.04-0.16 kWh).json"
+  ],
+
+  "40": [
+    "WM cluster 1 (158-185 min, 0.5-0.82 kWh).json",
+    "WM cluster 2 (86-110 min, 0.4-0.85 kWh).json",
+    "WM cluster 3 (110-130 min, 0.4-0.82 kWh).json",
+    "WM cluster 5 (130-152 min, 0.4-0.82 kWh).json",
+    "WM cluster 17 (200-255 min, 0.39-1.24 kWh).json"
+  ],
+
+  "40short": [
+    "WM cluster 7 (40-71 min, 0.16-0.38 kWh).json",
+    "WM cluster 13 (10-40 min, 0.12-0.46 kWh).json"
+  ],
+
+  "60": [
+    "WM cluster 6 (111-135 min, 0.82-1.55 kWh).json",
+    "WM cluster 16 (135-185 min, 0.82-1.41 kWh).json"
+  ],
+
+  "60short": [
+    "WM cluster 12 (68-86 min, 0.4-0.85 kWh).json",
+    "WM cluster 14 (30-68 min, 0.38-0.77 kWh).json"
+  ],
+
+  "90": [
+    "WM cluster 8 (91-130 min, 1.55-2.31 kWh).json"
+  ],
+
+  "90short": [
+    "WM cluster 10 (46-111 min, 0.85-1.55 kWh).json"
+  ]
+}

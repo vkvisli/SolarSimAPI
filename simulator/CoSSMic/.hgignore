@@ -1,0 +1,10 @@
+syntax: glob
+*.d
+*.o
+*.project
+*.directory
+*.csv
+CoSSMic
+*.kate-swp
+.sync.ffs_db
+*.kdev4

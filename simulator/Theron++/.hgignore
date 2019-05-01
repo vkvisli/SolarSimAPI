@@ -1,0 +1,4 @@
+syntax: glob
+*.o
+*.kdev4
+*.d

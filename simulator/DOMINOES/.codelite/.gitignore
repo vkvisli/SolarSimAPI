@@ -1,0 +1,7 @@
+/compilation.db
+/compile_commands.json
+*.tags
+*.workspace.geir_horn
+/refactoring.db
+*.memcheck.supp
+*.session
