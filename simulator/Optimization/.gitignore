@@ -1,0 +1,4 @@
+*.directory
+*.sync.ffs_db
+*.kdev4
+*.project
